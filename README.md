@@ -28,8 +28,6 @@ Hapus data warga
 
 ![5](https://user-images.githubusercontent.com/81550517/126330928-9728e6f8-1c63-4942-94d6-e4bfede7b152.png)
 
-![6](https://user-images.githubusercontent.com/81550517/126330934-3f5cb37c-617a-40ff-85a9-120271fb1091.png)
-
 ![7](https://user-images.githubusercontent.com/81550517/126330991-1477ad41-369c-4519-807e-0b60363a8d5a.png)
 
 3. Data Iuran
